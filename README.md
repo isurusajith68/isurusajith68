@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **isurusajith68@gmail.com**
 
-- 📄 Know about my experiences [https://isurusajith.netlify.app/](https://isurusajith.netlify.app/)
-
 - ⚡ Fun fact **I think I am funny**
 
 <!-- <h3 align="left">Connect with me:</h3>
