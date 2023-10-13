@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm isuru</h1>
-<h3 align="center">A passionate full stack developer from srilanka</h3>
+<h3 align="center">full stack developer from srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusajith68&label=Profile%20views&color=0e75b6&style=flat" alt="isurusajith68" /> </p>
 
