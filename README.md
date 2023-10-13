@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://isurusajith.netlify.app/](https://isurusajith.netlify.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **isurusajith68@gmail.com**
 
