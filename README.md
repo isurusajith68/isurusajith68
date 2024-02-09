@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusajith68&label=Profile%20views&color=0e75b6&style=flat" alt="isurusajith68" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://isurusajith.netlify.app/](https://isurusajith.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://isurusajith.netlify.app/](https://isurusajith.me)
 
 - 💬 Ask me about **MERN**
 
