@@ -1,43 +1,26 @@
-# Hi there, I'm Isuru Sajith 👋
+### Hi there 👋
 
-## About Me
+<h1 align="center">Hi 👋, I'm isuru</h1>
+<h3 align="center">I'm full stack developer</h3>
 
-I am a passionate developer with a keen interest in exploring new technologies and creating innovative solutions. I love to code, learn, and share my knowledge with the community.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isurusajith68&label=Profile%20views&color=0e75b6&style=flat" alt="isurusajith68" /> </p>
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Tech/Language]
-- 👯 I’m looking to collaborate on [Project/Tech]
-- 🤔 I’m looking for help with [Area where you need help]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Something Interesting About You]
 
-## Technologies & Tools
+- 👨‍💻 All of my projects are available at [https://isurusajith.me](https://isurusajith.me)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 💬 Ask me about **MERN**
 
-## GitHub Stats
+- 📫 How to reach me **isurusajith68@gmail.com**
 
-![isurusajith68's GitHub stats](https://github-readme-stats.vercel.app/api?username=isurusajith68&show_icons=true&theme=radical)
+- ⚡ Fun fact **I think I am funny**
 
-## Top Languages
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isurusajith68&layout=compact&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
 
-## Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isurusajith68&show_icons=true&locale=en&layout=compact" alt="isurusajith68" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Personal Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com)
-
-<!--
-**isurusajith68/isurusajith68** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurusajith68&show_icons=true&locale=en" alt="isurusajith68" /></p>
